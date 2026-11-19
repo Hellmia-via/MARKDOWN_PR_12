@@ -7,7 +7,7 @@
 Изменяем файл README.md для роботы с MARKDOWN
 
 ### Автор
-![Фото](<img width="1822" height="2048" alt="chelovek" src="https://github.com/user-attachments/assets/ef425590-87eb-4b0d-9482-191adf3641b8" /> "Приветик!")
+<img width="1822" height="2048" alt="chelovek" src="https://github.com/user-attachments/assets/ef425590-87eb-4b0d-9482-191adf3641b8" />
 
 *Меня зовут Лена, студентка группы ИС-24А ГБПОУ ЗАМТ*
 
